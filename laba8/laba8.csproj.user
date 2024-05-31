@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Balanced Tree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Choose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImgRedBlacktree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImgTreeBalanced.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImgTree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RedBlackTree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RezRedBlackTree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
